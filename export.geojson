@@ -1,0 +1,3703 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-12-19T09:11:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379582589",
+        "indoor": "yes",
+        "level": "-2",
+        "name": "Coiffure Lüdi",
+        "shop": "hairdresser",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.4399178,
+              46.9480707
+            ],
+            [
+              7.4400706,
+              46.9480962
+            ],
+            [
+              7.4400841,
+              46.9481789
+            ],
+            [
+              7.4398888,
+              46.9481453
+            ],
+            [
+              7.4399178,
+              46.9480707
+            ]
+          ]
+        ]
+      },
+      "id": "way/379582589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379904556",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "1",
+        "addr:housenumber": "10b",
+        "addr:postcode": "3011",
+        "addr:street": "Bahnhofplatz",
+        "alt_name": "Bahnhofcoiffeur Upstairs",
+        "contact:email": "info@coiffure-upstairs.ch",
+        "contact:fax": "+41 31 3317145",
+        "contact:phone": "+41 31 3101515",
+        "indoor": "yes",
+        "level": "1",
+        "name": "Upstairs",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa 07:30-20:00; Su 09:00-20:00",
+        "operator": "upstairs ag",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffure-upstairs.ch",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.4398757,
+              46.9486208
+            ],
+            [
+              7.4398487,
+              46.9486926
+            ],
+            [
+              7.4396482,
+              46.9486573
+            ],
+            [
+              7.4396752,
+              46.9485856
+            ],
+            [
+              7.4398757,
+              46.9486208
+            ]
+          ]
+        ]
+      },
+      "id": "way/379904556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/481899722",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "71",
+        "addr:postcode": "3006",
+        "addr:street": "Thunstrasse",
+        "contact:email": "info@cosmetic-envogue.ch",
+        "contact:phone": "+41 31 3024033",
+        "name": "Cosmetic en Vogue",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.cosmetic-envogue.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4609933,
+          46.9409973
+        ]
+      },
+      "id": "node/481899722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/481899724",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "71",
+        "addr:postcode": "3006",
+        "addr:street": "Thunstrasse",
+        "contact:phone": "+41 31 5355727",
+        "name": "Studio Relax",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4611049,
+          46.941079
+        ]
+      },
+      "id": "node/481899724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482597069",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "3006",
+        "addr:street": "Beatusstrasse",
+        "contact:phone": "+41 31 3513330",
+        "name": "Coiffeur-Lädeli",
+        "operator": "Maria Schranz",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4615887,
+          46.9418435
+        ]
+      },
+      "id": "node/482597069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/487119704",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "4",
+        "addr:postcode": "3006",
+        "addr:street": "Kalcheggweg",
+        "alt_name": "ORHAN Haarkunst",
+        "contact:facebook": "https://www.facebook.com/OrhanHaarkunst",
+        "contact:phone": "+41 31 3512121",
+        "name": "ORHAN",
+        "opening_hours": "Mo off; Tu-Fr 08:30-18:30; Sa 08:30-15:30; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.orhanhaarkunst.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4662596,
+          46.941197
+        ]
+      },
+      "id": "node/487119704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/489787439",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "3005",
+        "addr:street": "Mottastrasse",
+        "contact:phone": "+41 31 3510777",
+        "name": "Pfeiffer",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-15:00; Su off",
+        "operator": "Coiffure Pfeiffer AG",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffure-pfeiffer.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4517683,
+          46.942712
+        ]
+      },
+      "id": "node/489787439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/490033727",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "1",
+        "addr:postcode": "3005",
+        "addr:street": "Mottastrasse",
+        "alt_name": "Plan B Hairstyling",
+        "contact:email": "info@headline-bern.ch",
+        "contact:phone": "+41 31 3520881",
+        "name": "planb",
+        "opening_hours": "Mo off; Tu 08:00-20:00; We-Fr 08:00-18:30; Sa 09:00-15:00; Su off",
+        "operator": "Debora Kaufmann",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.planb-bern.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4517567,
+          46.9427906
+        ]
+      },
+      "id": "node/490033727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497178917",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "3005",
+        "addr:street": "Thunstrasse",
+        "alt_name": "Coiffeur Headline",
+        "contact:email": "info@headline-bern.ch",
+        "contact:phone": "+41 31 3520888",
+        "name": "headline",
+        "opening_hours": "Mo 09:00-16:00; Tu-We 08:00-18:30; Th 08:00-20:00; Fr 08:00-18:30; Sa 08:00-14:00; Su off",
+        "operator": "Debora Kaufmann",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.headline-bern.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4505797,
+          46.9431808
+        ]
+      },
+      "id": "node/497178917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506818213",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "42",
+        "addr:postcode": "3006",
+        "addr:street": "Ostring",
+        "alt_name": "Coiffure Haartraum",
+        "contact:phone": "+41 31 3525418",
+        "name": "Haartraum",
+        "opening_hours": "Mo off; Tu-Fr 09:00-17:00; Sa 09:00-13:00; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.haartraum-ostring.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4704545,
+          46.9435779
+        ]
+      },
+      "id": "node/506818213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/507607655",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "30",
+        "addr:postcode": "3006",
+        "addr:street": "Ostring",
+        "alt_name": "Coiffeur13",
+        "contact:email": "info@coiffure13.ch",
+        "contact:phone": "+41 31 3525201",
+        "contact:website": "http://www.coiffure13.ch/kontakt/index.php",
+        "name": "Coiffeur 13",
+        "opening_hours": "Mo off; Tu-Fr 09:00-17:00; Sa 09:00-12:00; Su off",
+        "operator": "Marlen Janser",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffure13.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4689914,
+          46.94272
+        ]
+      },
+      "id": "node/507607655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/516284448",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "3006",
+        "addr:street": "Elfenauweg",
+        "alt_name": "Coiffeur High Lite",
+        "contact:email": "franziskajenzer@me.com",
+        "contact:phone": "+41 31 3680038",
+        "name": "High Lite",
+        "operator": "Franziska Jenzer",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4684456,
+          46.9387323
+        ]
+      },
+      "id": "node/516284448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529934863",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "3006",
+        "addr:street": "Sprünglistrasse",
+        "alt_name": "Coiffure Art Line",
+        "contact:phone": "+41 31 3517131 ",
+        "name": "Art Line",
+        "operator": "Claudine Anken",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4727925,
+          46.937241
+        ]
+      },
+      "id": "node/529934863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529952240",
+        "name": "haarerei Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4740776,
+          46.9358456
+        ]
+      },
+      "id": "node/529952240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537538877",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "3015",
+        "addr:street": "Jupiterstrasse",
+        "name": "Coiffure Dieter",
+        "phone": "+41 31 941 42 22",
+        "shop": "hairdresser",
+        "source": "survey",
+        "wheelchair": "yes",
+        "wheelchair:description": "Damen- und Herrencoiffeur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4812642,
+          46.9396813
+        ]
+      },
+      "id": "node/537538877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537955688",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housename": "Freudenbergzentrum",
+        "addr:housenumber": "15",
+        "addr:postcode": "3006",
+        "addr:street": "Giacomettistrasse",
+        "alt_name": "Coiffure Cre",
+        "contact:phone": "+41 31 3529292",
+        "name": "Crea",
+        "operator": "Beatrice Zucchet",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4728428,
+          46.9455832
+        ]
+      },
+      "id": "node/537955688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563139130",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "3006",
+        "addr:street": "Bantigerstrasse",
+        "contact:phone": "+41 31 3524708",
+        "name": "Haaratelier Obstberg",
+        "shop": "hairdresser",
+        "website": "http://www.haaratelier-obstberg.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4625897,
+          46.9478703
+        ]
+      },
+      "id": "node/563139130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566950702",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "3013",
+        "addr:street": "Reiterstrasse",
+        "alt_name": "Coiffure Rosengarten",
+        "contact:phone": "+41 31 3317744",
+        "name": "Rosengarten",
+        "opening_hours": "Mo off; Tu-Fr 08:00-18:00; Sa 08:00-15:00; Su off",
+        "operator": "Rita Trachsel",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4616524,
+          46.9523253
+        ]
+      },
+      "id": "node/566950702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566950742",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "2b",
+        "addr:postcode": "3013",
+        "addr:street": "Papiermühlestrasse",
+        "contact:phone": "+41 78 7393337",
+        "name": "Salon Havanna",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4601287,
+          46.9537131
+        ]
+      },
+      "id": "node/566950742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/587737158",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "3013",
+        "addr:street": "Viktoriarain",
+        "alt_name": "Herrencoiffeur Salon Gianni",
+        "contact:phone": "+41 31 3319037",
+        "name": "Salon Gianni",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4463988,
+          46.9543294
+        ]
+      },
+      "id": "node/587737158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598242931",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "8",
+        "addr:postcode": "3014",
+        "addr:street": "Moserstrasse",
+        "addr:suburb": "Breitenrain",
+        "alt_name": "CUTS & MORE J.& U.",
+        "contact:phone": "+41 31 3334001",
+        "name": "CUTS & MORE",
+        "operator": "CUTS & MORE J. + U. DOPPMANN",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4519315,
+          46.9557007
+        ]
+      },
+      "id": "node/598242931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598614741",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "3013",
+        "addr:street": "Beundenfeldstrasse",
+        "addr:suburb": "Breitenrain",
+        "contact:email": "rahel@headwork.ch",
+        "contact:phone": "+41 31 3323283",
+        "name": "Headwork",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-15:00; Su off",
+        "operator": "Rahel Rolli & Tom Schröter",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.headwork.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4535805,
+          46.9562523
+        ]
+      },
+      "id": "node/598614741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602151835",
+        "contact:addr": "Militärstrasse 39, 3014 Bern",
+        "contact:phone": "+41 31 3329131",
+        "name": "Wave",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4565414,
+          46.9583737
+        ]
+      },
+      "id": "node/602151835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602151863",
+        "name": "Coiffure Nicole",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4562403,
+          46.959091
+        ]
+      },
+      "id": "node/602151863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602151885",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "40",
+        "addr:postcode": "3014",
+        "addr:street": "Militärstrasse",
+        "name": "Diamante",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4574873,
+          46.9588657
+        ]
+      },
+      "id": "node/602151885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602151905",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "91",
+        "addr:postcode": "3014",
+        "addr:street": "Rodtmattstrasse",
+        "alt_name": "Hair & MakeUp VisAngi",
+        "contact:email": "info@visangi.ch",
+        "contact:phone": "+41 31 3316564",
+        "contact:website": "http://www.visangi.ch/kontakt",
+        "name": "VisAngi",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su off",
+        "operator": "Angela Muri",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.visangi.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4574598,
+          46.9592667
+        ]
+      },
+      "id": "node/602151905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602460670",
+        "alt_name": "Coiffure Stämpfli",
+        "contact:addr": "Herzogstrasse 14, 3014 Bern",
+        "contact:phone": "+41 31 3316117",
+        "name": "Stämpfli",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4557632,
+          46.9583664
+        ]
+      },
+      "id": "node/602460670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602498805",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "3014",
+        "addr:street": "Moserstrasse",
+        "addr:suburb": "Breitenrain",
+        "alt_name": "Coiffeur Steffi",
+        "contact:phone": "+41 31 3315960",
+        "name": "Steffi",
+        "operator": "Jrene Burn",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.451725,
+          46.9562453
+        ]
+      },
+      "id": "node/602498805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602498866",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "28",
+        "addr:postcode": "3014",
+        "addr:street": "Moserstrasse",
+        "addr:suburb": "Breitenrain",
+        "contact:email": "info@fbbarbershop.ch",
+        "contact:phone": "+41 31 3312005",
+        "name": "F.B. Barbershop",
+        "opening_hours": "Mo off; Tu-Fr 10:00-19:00; Sa 10:00-17:00; Su off",
+        "operator": "Walter Aiguokhian aka F.B. aka Fine Boy",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.fbbarbershop.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.453227,
+          46.9572216
+        ]
+      },
+      "id": "node/602498866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602498946",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "31",
+        "addr:postcode": "3014",
+        "addr:street": "Breitenrainplatz",
+        "alt_name": "Moda Coiffure",
+        "contact:phone": "+41 31 3338003",
+        "name": "Moda",
+        "operator": "Monia Francone-Marinelli",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4545606,
+          46.958234
+        ]
+      },
+      "id": "node/602498946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/608495396",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "47",
+        "addr:postcode": "3014",
+        "addr:street": "Wylerstrasse",
+        "contact:email": "sonja@california-hair-studio.ch",
+        "contact:phone": "+41 31 3321177",
+        "name": "California Hair Studio",
+        "opening_hours": "Mo off, Tu 09:00-18:00; We 09:00-12:00; Th-Fr 09:00-18:00; Sa 09:00-12:00; Su off",
+        "operator": "Sonja Burkhalter",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.california-hair-studio.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4486071,
+          46.959973
+        ]
+      },
+      "id": "node/608495396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/610461620",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "3014",
+        "addr:street": "Elisabethenstrasse",
+        "addr:suburb": "Breitenrain",
+        "alt_name": "Coiffure Rita",
+        "contact:phone": "+41 31 3322204",
+        "name": "Rita",
+        "operator": "Rita Jost",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.452932,
+          46.9593319
+        ]
+      },
+      "id": "node/610461620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/610461691",
+        "name": "Coiffure Florence",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4525255,
+          46.96197
+        ]
+      },
+      "id": "node/610461691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/610461697",
+        "name": "Coiffure Regenbogen",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4528926,
+          46.9615698
+        ]
+      },
+      "id": "node/610461697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/613041772",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "16",
+        "addr:postcode": "3014",
+        "addr:street": "Stauffacherstrasse",
+        "addr:suburb": "Breitenrain",
+        "alt_name": "Coiffure Haarscharf",
+        "contact:phone": "+41 31 3311115",
+        "name": "haarscharf",
+        "operator": "Jutta Tretow",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4548527,
+          46.9610532
+        ]
+      },
+      "id": "node/613041772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/613041896",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "20",
+        "addr:postcode": "3014",
+        "addr:street": "Stauffacherstrasse",
+        "addr:suburb": "Breitenrain",
+        "alt_name": "Kosmetik und Dauer Haarentfernung Mari-om",
+        "contact:phone": "+41 31 3317376",
+        "hairdresser": "cosmetics",
+        "name": "Mari-om",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4548318,
+          46.9613591
+        ]
+      },
+      "id": "node/613041896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/613041941",
+        "addr:suburb": "Breitenrain",
+        "name": "Salon Jeanette",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.454481,
+          46.9620015
+        ]
+      },
+      "id": "node/613041941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/614862165",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "0",
+        "addr:housename": "Wankdorf Center",
+        "addr:housenumber": "85",
+        "addr:postcode": "3014",
+        "addr:street": "Papiermühlestrasse",
+        "alt_name": "The G Vision Hairstylist",
+        "contact:phone": "+41 31 3313020",
+        "contact:website": "http://www.thegvision.ch/feedbackformular.html",
+        "name": "G Vision",
+        "opening_hours": "Mo-Th 09:00-20:00; Fr 09:00-21:00; Sa 09:00-17:00; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.thegvision.ch/bern-wankdorf.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4641001,
+          46.9628913
+        ]
+      },
+      "id": "node/614862165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617990025",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "45",
+        "addr:postcode": "3014",
+        "addr:street": "Scheibenstrasse",
+        "alt_name": "Coiffure Silvia",
+        "contact:phone": "+41 31 3321815",
+        "name": "Silvia",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4517473,
+          46.9627742
+        ]
+      },
+      "id": "node/617990025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/617990135",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "56",
+        "addr:postcode": "3014",
+        "addr:street": "Winkelriedstrasse",
+        "alt_name": "Coiffure Leuenberger",
+        "contact:phone": "+41 31 3315733",
+        "name": "Leuenberger",
+        "operator": "Bruno Leuenberger",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4555229,
+          46.9636248
+        ]
+      },
+      "id": "node/617990135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/619787961",
+        "alt_name": "Coiffure Colette",
+        "contact:addr": "Lagerweg 1, 3013 Bern",
+        "contact:phone": "+41 31 3332391",
+        "name": "Colette",
+        "operator": "Colette Lässer",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4468168,
+          46.9566433
+        ]
+      },
+      "id": "node/619787961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/620033173",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:postcode": "3013",
+        "addr:suburb": "Lorraine",
+        "name": "Coiffeur Peter",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4438122,
+          46.9572223
+        ]
+      },
+      "id": "node/620033173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/620033209",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "21",
+        "addr:postcode": "3013",
+        "addr:street": "Lorrainestrasse",
+        "addr:suburb": "Lorraine",
+        "contact:email": "info@schnittpunkt-bern.ch",
+        "contact:phone": "+41 31 3310628",
+        "description": "de:Haar- und Stoffschneiderei ",
+        "name": "Schnittpunkt",
+        "opening_hours": "Mo off; Th-Fr 08:00-18:00; Sa-Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.schnittpunkt-bern.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4446377,
+          46.9570188
+        ]
+      },
+      "id": "node/620033209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662757546",
+        "name": "Hair Style Silvia",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4376217,
+          46.9349566
+        ]
+      },
+      "id": "node/662757546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662757557",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "18",
+        "addr:postcode": "3007",
+        "addr:street": "Friedheimweg",
+        "addr:suburb": "Weissenbühl",
+        "name": "Zur Portier's Loge",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4375189,
+          46.9359614
+        ]
+      },
+      "id": "node/662757557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662959285",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "71",
+        "addr:postcode": "3007",
+        "addr:street": "Belpstrasse",
+        "contact:email": "info@hairness-coiffeur.ch",
+        "contact:phone": "+41 31 3710080",
+        "name": "Hairness",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:00; Sa 08:00-13:00; Su off",
+        "operator": "Hairness Bern GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.hairness-coiffeur.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4312443,
+          46.9417371
+        ]
+      },
+      "id": "node/662959285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663576470",
+        "name": "Hair Looks",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4321355,
+          46.9417798
+        ]
+      },
+      "id": "node/663576470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/663576541",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "3007",
+        "addr:street": "Philosophenweg",
+        "alt_name": "Coiffeur Adelheid",
+        "contact:phone": "+41 31 3723181",
+        "name": "Adelheid",
+        "operator": "Heidi Rohrer",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4315957,
+          46.9420189
+        ]
+      },
+      "id": "node/663576541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666998418",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "34",
+        "addr:postcode": "3007",
+        "addr:street": "Seftigenstrasse",
+        "addr:suburb": "Weissenbühl",
+        "alt_name": "Nido Hair and Beauty",
+        "contact:fax": "+41 31 3713927",
+        "contact:phone": "+41 31 3723313",
+        "name": "Nido",
+        "opening_hours": "Mo off; Tu 08:00-18:30; Sa 08:00-14:00; Su off",
+        "operator": "Nido hair & beauty Inhaberin S. Germano D'Ingianti (Einzelunternehmen)",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.nidohair.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4318755,
+          46.9365737
+        ]
+      },
+      "id": "node/666998418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/666998630",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "68",
+        "addr:postcode": "3007",
+        "addr:street": "Seftigenstrasse",
+        "alt_name": "Mariposa Coiffure",
+        "contact:phone": "+41 31 3711666",
+        "name": "Mariposa",
+        "operator": "Sarah Zumbrunn",
+        "shop": "hairdresser",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4350254,
+          46.9349857
+        ]
+      },
+      "id": "node/666998630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667410301",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "32",
+        "addr:postcode": "3007",
+        "addr:street": "Seftigenstrasse",
+        "alt_name": "Coiffure Muster",
+        "contact:phone": "+41 31 3722629",
+        "description": "de:Damen- und Herrencoiffure",
+        "name": "Muster",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4319727,
+          46.9371333
+        ]
+      },
+      "id": "node/667410301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667410310",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "20",
+        "addr:postcode": "3007",
+        "addr:street": "Seftigenstrasse",
+        "addr:suburb": "Weissenbühl",
+        "contact:phone": "+41 31 3717000",
+        "name": "Waber & Kraushaar",
+        "opening_hours": "Mo off; Tu-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa-Su off",
+        "operator": "Anita Berger & Claudia Cotting",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.eitelkeiten-bern.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4320325,
+          46.938037
+        ]
+      },
+      "id": "node/667410310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667410560",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "25",
+        "addr:postcode": "3007",
+        "addr:street": "Seftigenstrasse",
+        "addr:suburb": "Weissenbühl",
+        "alt_name": "Coiffure Sarah Gazso",
+        "contact:phone": "+41 31 3713348",
+        "name": "Schnittstube",
+        "old_name": "Coiffure Ursula Hobi",
+        "opening_hours": "Mo off; Tu-Fr 08:30-18:30; Sa 08:00-14:00; Su off",
+        "operator": "Sarah Gazso",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.schnittstube.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4323832,
+          46.9379213
+        ]
+      },
+      "id": "node/667410560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667410574",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "65",
+        "addr:postcode": "3007",
+        "addr:street": "Seftigenstrasse",
+        "addr:suburb": "Weissenbühl",
+        "contact:facebook": "https://www.facebook.com/www.coiffeurarya.ch",
+        "contact:phone": "+41 31 3717292",
+        "name": "Coiffeur Arya",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4353207,
+          46.9352975
+        ]
+      },
+      "id": "node/667410574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667410575",
+        "name": "Coiffure King's",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.432352,
+          46.9384536
+        ]
+      },
+      "id": "node/667410575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/667410630",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "114",
+        "addr:postcode": "3007",
+        "addr:street": "Monbijoustrasse",
+        "alt_name": "Coiffure Hair Fair",
+        "contact:phone": "+41 31 3719937",
+        "name": "Hair Fair",
+        "opening_hours": "Mo off; Tu 08:00-18:30; We 08:00-17:30; Th-Fr 08:00-18:30; Sa 08:00-13:00",
+        "operator": "Nicole Binggeli",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffure-hair-flair.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4362228,
+          46.9366784
+        ]
+      },
+      "id": "node/667410630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671237628",
+        "name": "Blue Wave",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4273354,
+          46.9410134
+        ]
+      },
+      "id": "node/671237628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671237655",
+        "name": "Wiafol",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4276979,
+          46.9408777
+        ]
+      },
+      "id": "node/671237655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671908253",
+        "name": "Coiffure Schmetzer",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4262424,
+          46.9427895
+        ]
+      },
+      "id": "node/671908253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679787239",
+        "name": "Coiffure Heinz Held",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4272975,
+          46.9437003
+        ]
+      },
+      "id": "node/679787239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679787321",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "40",
+        "addr:postcode": "3007",
+        "addr:street": "Belpstrasse",
+        "alt_name": "Coiffure Hair",
+        "contact:phone": "+41 31 3817170",
+        "name": "Hair",
+        "opening_hours": "Tu-Fr 09:00-18:00; Mo 14:00-18:00",
+        "operator": "Regula Gilgen",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4315913,
+          46.9431121
+        ]
+      },
+      "id": "node/679787321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679787368",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "28",
+        "addr:postcode": "3007",
+        "addr:street": "Belpstrasse",
+        "contact:phone": "+41 31 3812780",
+        "name": "Dara Hair",
+        "operator": "Dara Sadun",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4318363,
+          46.9434608
+        ]
+      },
+      "id": "node/679787368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679787435",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "55",
+        "addr:postcode": "3008",
+        "addr:street": "Effingerstrasse",
+        "contact:phone": "+41 31 3817684",
+        "name": "Coiffure Willy",
+        "operator": "Willy Odermatt",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4287468,
+          46.9455879
+        ]
+      },
+      "id": "node/679787435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/679787436",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "55",
+        "addr:postcode": "3008",
+        "addr:street": "Effingerstrasse",
+        "alt_name": "Verwandelbar Hairstyle & Make-up",
+        "contact:phone": "+41 31 3827282",
+        "name": "Verwandelbar",
+        "opening_hours": "Mo off; Tu 08:00-18:00; We 10:00-20:00; Th-Fr 08:00-20:00; Sa 08:00-14:00; Su off",
+        "operator": "Verwandelbar GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.verwandelbar.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4285441,
+          46.9455771
+        ]
+      },
+      "id": "node/679787436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/683791517",
+        "name": "Hair Design",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4274808,
+          46.9457887
+        ]
+      },
+      "id": "node/683791517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/703075455",
+        "name": "Coiffure Susanne",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4191824,
+          46.9410016
+        ]
+      },
+      "id": "node/703075455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/704348010",
+        "name": "Coiffure Hp. Widmer",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.421128,
+          46.9442524
+        ]
+      },
+      "id": "node/704348010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/704348041",
+        "name": "Grand Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4214579,
+          46.9441636
+        ]
+      },
+      "id": "node/704348041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/704348070",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "40",
+        "addr:postcode": "3007",
+        "addr:street": "Zwyssigstrasse",
+        "alt_name": "Bicoudi Coiffure",
+        "contact:phone": "+41 31 3818101",
+        "contact:website": "http://www.gs-coiffure.com/kontakt/",
+        "description": "de:Damen und Herren Coiffure",
+        "name": "G&S",
+        "old_name": "Bigoudi Coiffeure",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su off",
+        "operator": "Selvie Sakiri Gashi",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.gs-coiffure.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4223498,
+          46.944449
+        ]
+      },
+      "id": "node/704348070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/719027358",
+        "name": "A.G.S. Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4157914,
+          46.9440625
+        ]
+      },
+      "id": "node/719027358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/719027615",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "95",
+        "addr:postcode": "3008",
+        "addr:street": "Schlossstrasse",
+        "alt_name": "hair artistic D'Amico",
+        "contact:email": "info@hairartistic.ch",
+        "contact:phone": "+41 31 3819349",
+        "name": "hair artistic",
+        "opening_hours": "Tu-Fr 08:30-18:30; Sa 08:30-16:00",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.hairartistic.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4143671,
+          46.9439635
+        ]
+      },
+      "id": "node/719027615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/725338620",
+        "name": "Coiffure Bruna",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4196113,
+          46.9452595
+        ]
+      },
+      "id": "node/725338620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738207021",
+        "contact:addr": "Murtenstrasse 1, 3008 Bern",
+        "contact:phone": "+41 31 3815484",
+        "name": "Free Hair Style",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:00; Sa 10:00-14:00; Su off",
+        "operator": "Free Hair Style GmbH",
+        "shop": "hairdresser",
+        "website": "http://www.freehairstyle.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4273942,
+          46.9482631
+        ]
+      },
+      "id": "node/738207021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/805903846",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "83",
+        "addr:postcode": "3012",
+        "addr:street": "Länggassstrasse",
+        "addr:suburb": "Länggasse",
+        "alt_name": "Coiffure Ulla Kaufmann",
+        "contact:phone": "+41 31 301 16 06",
+        "name": "Ulla Kaufmann",
+        "opening_hours": "Tu-Fr 08:00-12:00, 13:30-18:00; Sa 08:00-12:00",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4266446,
+          46.9556904
+        ]
+      },
+      "id": "node/805903846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/811328890",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "33",
+        "addr:postcode": "3012",
+        "addr:street": "Lerchenweg",
+        "addr:suburb": "Länggasse",
+        "contact:email": "info@oops-hair.ch",
+        "contact:phone": "+41 31 3014454",
+        "name": "Hairdressing OOPS",
+        "opening_hours": "Mo 10:00-19:00; Tu 10:00-21:00; We 10:00-19:00; Th 10:00-21:00; Fr 10:00-19:00; Sa 10:00-15:00; Su off",
+        "operator": "Pat Eneukwu-Bigler",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.oops-hair.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4306321,
+          46.9537958
+        ]
+      },
+      "id": "node/811328890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/815444702",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "25a",
+        "addr:postcode": "3012",
+        "addr:street": "Bühlstrasse",
+        "addr:suburb": "Länggasse",
+        "alt_name": "Coiffure Dunkelbunt",
+        "contact:phone": "+41 31 3058030",
+        "name": "Dunkelbunt",
+        "opening_hours": "Tu,We,Fr 09:00-18:30; Sa 09:00-15:00",
+        "operator": "Ruth Meyer",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4293855,
+          46.9505555
+        ]
+      },
+      "id": "node/815444702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/815768807",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "3012",
+        "addr:street": "Falkenplatz",
+        "addr:suburb": "Länggasse",
+        "alt_name": "Cuafför Länggass",
+        "contact:phone": "+41 31 3023430",
+        "name": "Kontur",
+        "opening_hours": "Mo 10:00-18:30; Tu-Fr 08:00-19:30; Sa 08:00-14:00; Su off",
+        "operator": "Namgyal Schneebeli",
+        "shop": "hairdresser",
+        "source": "website and survey",
+        "website": "http://www.kontur-coiffeur.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4354021,
+          46.9507896
+        ]
+      },
+      "id": "node/815768807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/824801797",
+        "layer": "3",
+        "name": "Coiffure Marc",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4377978,
+          46.9475855
+        ]
+      },
+      "id": "node/824801797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/824801843",
+        "layer": "3",
+        "name": "Figaro",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4378809,
+          46.9475992
+        ]
+      },
+      "id": "node/824801843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/826147135",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "15",
+        "addr:postcode": "3011",
+        "addr:street": "Monbijoustrasse",
+        "alt_name": "Parterre-Cuafför-Monbijou",
+        "contact:phone": "+41 31 3817181",
+        "name": "Parterre",
+        "old_name": "Parterre 15",
+        "opening_hours": "Mo-Fr 10:00-19:00",
+        "operator": "Namgyal Schneebeli",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.parterre-coiffeur.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4367795,
+          46.944688
+        ]
+      },
+      "id": "node/826147135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848255737",
+        "name": "Rapunzel Frisuren",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4526695,
+          46.9730877
+        ]
+      },
+      "id": "node/848255737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/863274525",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "67",
+        "addr:postcode": "3007",
+        "addr:street": "Monbijoustrasse",
+        "alt_name": "Coiffeur Berset",
+        "contact:email": "info@coiffeurberset.ch",
+        "contact:phone": "+41 31 3714673",
+        "name": "Berset",
+        "opening_hours": "Mo off; Tu 08:00-18:30; We 08:00-20:00; Th 08:00-18:30; Fr 08:00-20:00; Sa 08:00-14:00",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffeurberset.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4359775,
+          46.940716
+        ]
+      },
+      "id": "node/863274525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/863274527",
+        "alt_name": "Coiffure Morgenthaler",
+        "name": "Morgenthaler",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4360565,
+          46.9401028
+        ]
+      },
+      "id": "node/863274527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/875822688",
+        "contact:addr": "Fischerweg 20, 3012 Bern",
+        "contact:phone": "+41 799041770",
+        "name": "The Corner Shop",
+        "shop": "hairdresser",
+        "website": "http://the-corner-shop.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4383141,
+          46.9554805
+        ]
+      },
+      "id": "node/875822688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/882920574",
+        "addr:floor": "2",
+        "contact:addr": "Lorrainestrasse 4, 3013 Bern",
+        "contact:email": "info@divaobscura.com",
+        "contact:facebook": "https://www.facebook.com/DivaObscura",
+        "contact:mobile": "+41 78 8880678",
+        "name": "Diva Obscura",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.divaobscura.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4456056,
+          46.9550471
+        ]
+      },
+      "id": "node/882920574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885950739",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "14a",
+        "addr:postcode": "3011",
+        "addr:street": "Effingerstrasse",
+        "alt_name": "Coiffeursalon Voguehair",
+        "contact:email": "info@voguehair.ch",
+        "contact:phone": "+41 31 3818080",
+        "name": "Voguehair",
+        "opening_hours": "Mo off; Tu-We 09:00-18:00; Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-15:00; Su off",
+        "operator": "Patricia Boss Hairstyling Vogue (Einzelunternehmen)",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "https://www.voguehair.ch/vogue-effingerstrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4354082,
+          46.9460215
+        ]
+      },
+      "id": "node/885950739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/885950744",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "4a",
+        "addr:postcode": "3011",
+        "addr:street": "Effingerstrasse",
+        "alt_name": "Coiffeur Merz",
+        "contact:email": "mail@coiffeur-merz.ch",
+        "contact:phone": "+41 31 3814101",
+        "name": "Merz",
+        "opening_hours": "Mo 10:00-18:30; Tu-We 08:30-18:30; Th 08:30-21:00; Fr 08:30-18:30; Sa 08:30-13:00; Su off",
+        "operator": "Coiffeur Merz GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "https://www.coiffeur-merz.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4365796,
+          46.9459336
+        ]
+      },
+      "id": "node/885950744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/892828941",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "5/7",
+        "addr:postcode": "3011",
+        "addr:street": "Schwanengasse",
+        "alt_name": "Haarmania Frisiersalon",
+        "contact:phone": "+41 31 3116878",
+        "name": "Haarmania",
+        "opening_hours": "Mo off; Tu-Fr 08:00-18:00; Sa 08:00-13:00; Su off",
+        "operator": "Stefan Laager & Rocchina Cacchio",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.haarmania.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4394264,
+          46.9467428
+        ]
+      },
+      "id": "node/892828941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/892833357",
+        "alt_name": "Coiffure plus minus",
+        "contact:addr": "Hirschengraben 11, 3011 Bern",
+        "contact:email": "info@plus-minus.ch",
+        "contact:facebook": "https://www.facebook.com/coiffeurPlusminus",
+        "contact:phone": "+41 31 3113683",
+        "name": "plus minus",
+        "note": "Entrance Wallgasse",
+        "opening_hours": "Mo-Tu off; We-Fr 09:00-17:00; Sa 09:00-13:00; Su off",
+        "operator": "Jessica Tschan",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.plus-minus.ch",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4382266,
+          46.9464464
+        ]
+      },
+      "id": "node/892833357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/892954443",
+        "name": "Ursi's Coiffeur Stübli",
+        "shop": "hairdresser",
+        "wheelchair": "no",
+        "wheelchair:description": "Dieses Geschäft gibt es nicht mehr!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4483545,
+          46.9722005
+        ]
+      },
+      "id": "node/892954443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895416991",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "70",
+        "addr:postcode": "3012",
+        "addr:street": "Länggassstrasse",
+        "addr:suburb": "Länggasse",
+        "contact:email": "welcome@haarklasse.ch",
+        "contact:phone": "+41 31 3715671",
+        "name": "haarklasse",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00; Su off",
+        "operator": "coiffeur haarklasse + akademie gmbh",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.haarklasse.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4286391,
+          46.9554282
+        ]
+      },
+      "id": "node/895416991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895428452",
+        "name": "Lord Coiffure",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.431805,
+          46.941369
+        ]
+      },
+      "id": "node/895428452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1215742041",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "3011",
+        "addr:street": "Marktgasse",
+        "alt_name": "Coiffure Walter Lottenbach",
+        "contact:phone": "+41 31 3117689",
+        "name": "Walter",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4458283,
+          46.9477035
+        ]
+      },
+      "id": "node/1215742041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1297021555",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "3011",
+        "addr:street": "Mühlenplatz",
+        "addr:suburb": "Matte",
+        "contact:phone": "+41 31 3116577",
+        "contact:website": "http://www.hauptsache.be",
+        "name": "hauptsache",
+        "opening_hours": "Mo 10:00-19:00; Tu-Th 09:00-21:00; Fr 08:00-19:00; Sa 09:00-14:00; Su off",
+        "operator": "hauptsache haar gmbh",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.hauptsache.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.455487,
+          46.9470616
+        ]
+      },
+      "id": "node/1297021555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1684322884",
+        "alt_name": "Coiffure Face",
+        "contact:addr": "Zeughausgasse 12, 3011 Bern",
+        "contact:email": "marti.judith@gmx.ch",
+        "contact:phone": "+41 31 3116617",
+        "name": "Face",
+        "opening_hours": "Mo off; Tu-Fr 08:30-18:30; Sa 08:00-15:00; Su off",
+        "operator": "Coiffure Face GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffure-face-bern.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4458261,
+          46.949046
+        ]
+      },
+      "id": "node/1684322884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1917033309",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "10",
+        "addr:postcode": "3013",
+        "addr:street": "Breitenrainstrasse",
+        "addr:suburb": "Breitenrain",
+        "name": "Hair seven ty seven",
+        "phone": "+41 31 3317993",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4533843,
+          46.958442
+        ]
+      },
+      "id": "node/1917033309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2211033383",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "7",
+        "addr:postcode": "3011",
+        "addr:street": "Waaghausgasse",
+        "alt_name": "Coiffeur Franco",
+        "contact:phone": "+41 31 311 66 88",
+        "name": "Franco",
+        "opening_hours": "Mo-We, Fr 09:00-18:00; Th 09:00-19:00; Sa 08:00-16:00",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4443524,
+          46.9488376
+        ]
+      },
+      "id": "node/2211033383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2518056005",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "40",
+        "addr:postcode": "3012",
+        "addr:street": "Länggassstrasse",
+        "addr:suburb": "Länggasse",
+        "contact:phone": "+41 31 3053039",
+        "name": "Art Coiffeur",
+        "opening_hours": "Mo 11:00-18:30; Tu-Fr 09:00-18:30; Sa 08:00-14:00",
+        "operator": "Maria Giuseppina Tiryaki",
+        "shop": "hairdresser",
+        "source": "survey",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4315279,
+          46.9540698
+        ]
+      },
+      "id": "node/2518056005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2566084987",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "26",
+        "addr:postcode": "3011",
+        "addr:street": "Schifflaube",
+        "addr:suburb": "Matte",
+        "alt_name": "Coiffure Schifflaube",
+        "contact:email": "mail@coiffureschifflaube.be",
+        "contact:phone": "+41 31 3117880",
+        "name": "Schifflaube",
+        "opening_hours": "Mo-Fr 10:00-18:30; Sa 08:00-16:00",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffureschifflaube.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4541887,
+          46.9464245
+        ]
+      },
+      "id": "node/2566084987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583594612",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "26",
+        "addr:postcode": "3011",
+        "addr:street": "Neuengasse",
+        "alt_name": "GIDOR Coiffeur Ryfflihof",
+        "brand": "GIDOR",
+        "contact:phone": "+41 31 3114763",
+        "name": "Gidor",
+        "opening_hours": "Mo-We 09:00-19:00; Th 09:00-21:00; Fr 09:00-20:00; Sa 08:00-17:00; Su off",
+        "operator": "GIDOR SA",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "toilets:wheelchair": "no",
+        "website": "http://www.gidor.ch/index.php/bern-neuengasse.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.442155,
+          46.9491445
+        ]
+      },
+      "id": "node/2583594612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2925703955",
+        "name": "Coiffure Opera",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3985957,
+          46.9443848
+        ]
+      },
+      "id": "node/2925703955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2946057657",
+        "name": "Haarwerk",
+        "shop": "hairdresser",
+        "website": "http://www.haar-werk.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3934729,
+          46.9472508
+        ]
+      },
+      "id": "node/2946057657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952786249",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "176",
+        "addr:postcode": "3018",
+        "addr:street": "Bümplizstrasse",
+        "addr:suburb": "Bümpliz",
+        "alt_name": "Herren Coiffure Hollywood",
+        "contact:phone": "+41 76 3358085",
+        "name": "Hollywood",
+        "opening_hours": "Mo 12:00-19:00, Tu-Fr 09:00-19:00, Sa 08:00-17:00",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3939333,
+          46.9384705
+        ]
+      },
+      "id": "node/2952786249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2979050535",
+        "alt_name": "GIDOR Coiffeur Bundesgasse",
+        "brand": "GIDOR",
+        "contact:addr": "Bundesgasse 18, 3011 Bern",
+        "contact:phone": "+41 31 3118075",
+        "name": "Gidor",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-17:00",
+        "operator": "GIDOR SA",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.gidor.ch/de/standorte/unsere-standorte/bern-bundesgasse/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4414412,
+          46.9466613
+        ]
+      },
+      "id": "node/2979050535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2982731939",
+        "contact:email": "info@kopfstand.ch",
+        "contact:phone": "+41 319321010",
+        "contact:website": "https://kopfstand.ch/",
+        "name": "Kopfstand",
+        "opening_hours": "Tu 12:00-21:00; We-Fr 09:00-18:30; Sa 09:00-15:00; Su,Mo,PH closed",
+        "operator": "David von Graffenried",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4301921,
+          46.95519
+        ]
+      },
+      "id": "node/2982731939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2990881886",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "9",
+        "addr:postcode": "3012",
+        "addr:street": "Mittelstrasse",
+        "addr:suburb": "Länggasse",
+        "alt_name": "Coiffure Hair Flair",
+        "contact:email": "yvonne@coiffeur-hairflair.ch",
+        "contact:phone": "+41 31 3017142",
+        "name": "Hair Flair",
+        "opening_hours": "Mo off; Tu 08:30-18:30; We 08:30-12:00, 13:00-18:30; Th 08:30-20:00; Fr 08:30-18:30; Sa 08:30-13:00; Su off",
+        "operator": "Yvonne Wittwer",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffeur-hairflair.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4331891,
+          46.9539345
+        ]
+      },
+      "id": "node/2990881886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3029438333",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "23",
+        "addr:postcode": "3011",
+        "addr:street": "Monbijoustrasse",
+        "contact:email": "info@derfrisoer.ch",
+        "contact:facebook": "https://www.facebook.com/www.derfrisoer.chl",
+        "contact:phone": "+41 31 3822676",
+        "name": "Der Frisör",
+        "opening_hours": "Mo 10:00-19:00; Tu 09:00-19:00; We-Th 09:00-21:00; Fr 09:00-19:00; Sa 09:00-16:00; Su off",
+        "operator": "Der Frisör Team GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.derfrisoer.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4364081,
+          46.944181
+        ]
+      },
+      "id": "node/3029438333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3033994395",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "29",
+        "addr:postcode": "3011",
+        "addr:street": "Marktgasse",
+        "alt_name": "Coiffure Gianni Scilipoti",
+        "contact:phone": "+41 31 3116457",
+        "name": "Gianni",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.445843,
+          46.9477831
+        ]
+      },
+      "id": "node/3033994395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3115482554",
+        "contact:email": "hair@upstairsplus.ch",
+        "contact:phone": "+41 31 3111126",
+        "contact:website": "http://www.upstairsplus.ch/idx_mail.php",
+        "level": "1",
+        "name": "Upstairs PLUS",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 07:30-17:00; Su off",
+        "operator": "upstairs plus GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.upstairsplus.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4413063,
+          46.9489439
+        ]
+      },
+      "id": "node/3115482554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3118314947",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "16",
+        "addr:postcode": "3014",
+        "addr:street": "Scheibenstrasse",
+        "addr:suburb": "Breitenrain",
+        "contact:phone": "+41 31 3328877",
+        "name": "Hairvorragend",
+        "opening_hours": "Mo off; Tu-Fr 08:00-18:00; Sa 07:30-14:00; Su off",
+        "operator": "HAIRVORRAGEND by Marlene GmbH",
+        "shop": "hairdresser",
+        "source": "website and survey",
+        "website": "http://www.hairvorragend.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.454321,
+          46.960436
+        ]
+      },
+      "id": "node/3118314947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3118375370",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "4",
+        "addr:postcode": "3014",
+        "addr:street": "Moserstrasse",
+        "addr:suburb": "Breitenrain",
+        "contact:phone": "+41 31 3334000",
+        "name": "Hauptsitz",
+        "opening_hours": "Mo-Fr ; Sa-Su off",
+        "shop": "hairdresser",
+        "source": "website and survey",
+        "website": "http://www.hauptsitz.be"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4518447,
+          46.9555203
+        ]
+      },
+      "id": "node/3118375370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3225135838",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "44",
+        "addr:postcode": "3018",
+        "addr:street": "Heimstrasse",
+        "addr:suburb": "Bümpliz",
+        "contact:phone": "+41 31 9925646",
+        "name": "HaarRaum",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.haarraum.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3858755,
+          46.9418656
+        ]
+      },
+      "id": "node/3225135838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3229664497",
+        "contact:addr": "Monbijoustrasse 24, 3011 Bern",
+        "contact:facebook": "https://www.facebook.com/Tajmahaar",
+        "contact:phone": "+41 31 3815163",
+        "name": "Taj Mahaar",
+        "opening_hours": "Mo-Tu 10:00-19:00; We 10:00-20:00; Th 10:00-21:00; Fr 10:00-19:00; Sa-Su off",
+        "operator": "Taj Mahaar GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.tajmahaar.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.435833,
+          46.9441368
+        ]
+      },
+      "id": "node/3229664497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3250843650",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "1",
+        "addr:housenumber": "26",
+        "addr:postcode": "3011",
+        "addr:street": "Spitalgasse",
+        "alt_name": "Heads Coiffure",
+        "contact:email": "contact@headscoiffure.ch",
+        "contact:phone": "+41 31 3121767",
+        "contact:website": "http://www.headscoiffure.ch/pages/kontakt.php",
+        "name": "Heads",
+        "opening_hours": "Mo off; Tu-Fr 08:00-18:30; Sa 08:00-13:00; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.headscoiffure.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4423812,
+          46.9483251
+        ]
+      },
+      "id": "node/3250843650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252514324",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "45",
+        "addr:postcode": "3011",
+        "addr:street": "Gerechtigkeitsgasse",
+        "alt_name": "Duo Hairstyling",
+        "contact:phone": "+41 31 3115177",
+        "name": "Duo",
+        "opening_hours": "Mo off; Tu-Fr 08:30-18:30; Sa 08:00-14:00; Su off",
+        "operator": "Monika Schmutz Badertscher & Murielle Messerli",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.duohairstyling.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4538698,
+          46.9481233
+        ]
+      },
+      "id": "node/3252514324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252567987",
+        "alt_name": "Coiffure Studio 7",
+        "contact:addr": "Zibelegässli 18, 3011 Bern",
+        "contact:email": "info@studio7.ch",
+        "contact:facebook": "https://www.facebook.com/pages/Coiffure-Studio-7-GmbH/152744934754842",
+        "contact:phone": "+41 31 3111365",
+        "name": "Studio 7",
+        "opening_hours": "Mo off; Tu-We 08:30-18:30; Tu 08:30-21:00; Fr 08:30-19:00; Sa 10:00-16:00; Su off",
+        "operator": "Coiffure Studio 7 GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.studio7.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4481374,
+          46.9484016
+        ]
+      },
+      "id": "node/3252567987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252567988",
+        "alt_name": "Coiffure Studio 7",
+        "contact:addr": "Gerechtigkeitsgasse 31, 3011 Bern",
+        "contact:email": "info@studio7.ch",
+        "contact:facebook": "https://www.facebook.com/pages/Coiffure-Studio-7-GmbH/152744934754842",
+        "contact:phone": "+41 31 3119434",
+        "name": "Studio 7",
+        "opening_hours": "Mo",
+        "operator": "Coiffure Studio 7 GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.studio7.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4543954,
+          46.9482114
+        ]
+      },
+      "id": "node/3252567988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252773961",
+        "alt_name": "Coiffeur Salon Schnittstelle",
+        "contact:addr": "Gerechtigkeitsgasse 39, 3011 Bern",
+        "contact:email": "mail@schnittstelle-bern.com",
+        "contact:phone": "+41 31 3110844",
+        "contact:website": "http://www.schnittstelle-bern.com/kontakt.html",
+        "name": "Schnittstelle",
+        "opening_hours": "Mo off; Tu-We 09:30-19:00; Th 10:30-21:00; Fr 10:30-19:00; Sa 09:00-16:00; Su off",
+        "operator": "Schnittstelle Beauty for Hair GmbH",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.schnittstelle-bern.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.454105,
+          46.9480426
+        ]
+      },
+      "id": "node/3252773961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3252961050",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "19",
+        "addr:postcode": "3013",
+        "addr:street": "Lorrainestrasse",
+        "addr:suburb": "Lorraine",
+        "contact:phone": "+41 31 3110300",
+        "name": "S.O.S. Sisters of Scissors",
+        "opening_hours": "Mo-Sa; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.sistersofscissors.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.444675,
+          46.9568318
+        ]
+      },
+      "id": "node/3252961050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3253498271",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "22",
+        "addr:postcode": "3011",
+        "addr:street": "Münstergasse",
+        "alt_name": "Salon de Coiffure Blond",
+        "contact:email": "mail@blond.ch",
+        "contact:facebook": "http://www.facebook.com/pages/Blond-Salon-de-Coiffure/143103732404157",
+        "contact:phone": "+41 31 3118515",
+        "name": "Blond",
+        "opening_hours": "Mo 10:00-18:30; Tu 09:00-18:30; We-Th 09:00-21:00; Fr 09:00-18:30; Sa 09:00-16:00; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.blond.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4511754,
+          46.9475821
+        ]
+      },
+      "id": "node/3253498271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269124411",
+        "alt_name": "Coiffure INTERNATIONAL",
+        "contact:addr": "Genfergasse 13, 3011 Bern",
+        "contact:email": "info@coiffure-international.ch",
+        "contact:phone": "+41 31 3112885",
+        "contact:website": "http://www.coiffure-international.ch/contact.php",
+        "description": "de:Damen & Herren",
+        "name": "International",
+        "opening_hours": "Mo off; Tu-Fr 08:00-18:30; Sa 07:30-16:00; Su off",
+        "operator": "Coiffure International R. Zuli (Einzelunternehmen)",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffure-international.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4419388,
+          46.9502903
+        ]
+      },
+      "id": "node/3269124411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269292345",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "60",
+        "addr:postcode": "3011",
+        "addr:street": "Aarbergergasse",
+        "contact:email": "mail@aernibern.ch",
+        "contact:facebook": "https://www.facebook.com/aernibern",
+        "contact:phone": "+41 31 3112468",
+        "name": "Aerni Haar",
+        "opening_hours": "Mo-We 08:00-18:30; Th 08:00-21:00; Fr 08:00-18:30; Sa 08:00-17:00; Su off",
+        "operator": "AERNI riedogroup AG",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://aernibern.ch/coiffeur-bern/haar.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4417351,
+          46.950036
+        ]
+      },
+      "id": "node/3269292345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269791929",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "5",
+        "addr:postcode": "3011",
+        "addr:street": "Speichergasse",
+        "alt_name": "Coiffeursalon Voguehair",
+        "contact:email": "info@voguehair.ch",
+        "contact:phone": "+41 31 3113696",
+        "name": "Voguehair",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-15:00; Su off",
+        "operator": "Hair Styling Vogue B. Zehnder (Einzelunternehmen)",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.voguehair.ch/salons/bern3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4438821,
+          46.9497746
+        ]
+      },
+      "id": "node/3269791929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3269804150",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "1",
+        "addr:housenumber": "7",
+        "addr:postcode": "3011",
+        "addr:street": "Neuengasse",
+        "alt_name": "Coiffeursalon Voguehair",
+        "contact:email": "info@voguehair.ch",
+        "contact:phone": "+41 31 3120366",
+        "name": "Voguehair",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:30; Sa 09:00-15:30; Su off",
+        "operator": "VOGUE PROFESSIONAL HAIRSTYLING Mantarelli Luca (Einzelunternehmen)",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.voguehair.ch/salons/bern1/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4431346,
+          46.948752
+        ]
+      },
+      "id": "node/3269804150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3272891440",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "1",
+        "addr:housenumber": "17",
+        "addr:postcode": "3011",
+        "addr:street": "Neuengasse",
+        "contact:phone": "+41 31 3112202",
+        "description": "de:Damen- und Herrensalon",
+        "name": "Five Chairs",
+        "opening_hours": "unknown",
+        "operator": "Peter Eckert",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4426724,
+          46.948783
+        ]
+      },
+      "id": "node/3272891440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286489113",
+        "addr:floor": "-1",
+        "alt_name": "Coiffeur Newroz",
+        "contact:addr": "Kramgasse 76, 3011 Bern",
+        "contact:phone": "+41 31 3110914",
+        "name": "Newroz",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+        "operator": "Majid Bakhtiar",
+        "shop": "hairdresser",
+        "source": "survey",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4485889,
+          46.9481362
+        ]
+      },
+      "id": "node/3286489113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286819946",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "14",
+        "addr:postcode": "3012",
+        "addr:street": "Mittelstrasse",
+        "name": "Elitehair",
+        "opening_hours": "Mo-Fr 08:00-18:30;Sa 08:00-16:00",
+        "shop": "hairdresser",
+        "website": "http://elite-hair.ch",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.433064,
+          46.954445
+        ]
+      },
+      "id": "node/3286819946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3292221660",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "3005",
+        "addr:street": "Brückenstrasse",
+        "addr:suburb": "Marzili",
+        "alt_name": "Coiffeur Haarbijou",
+        "contact:phone": "+41 31 3113660",
+        "name": "Haar Bijou",
+        "operator": "Chantal Bieri",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4436503,
+          46.9445592
+        ]
+      },
+      "id": "node/3292221660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3315408663",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "13",
+        "addr:postcode": "3013",
+        "addr:street": "Lorrainestrasse",
+        "addr:suburb": "Lorraine",
+        "alt_name": "Coiffure Hänsel & Gretel",
+        "contact:facebook": "https://www.facebook.com/coiffurehaenselundgretelbern",
+        "contact:phone": "+41 31 3311188",
+        "name": "Hänsel & Gretel",
+        "opening_hours": "Mo off; Tu 09:00-18:30; We 09:00-20:00; Th-Fr 09:00-18:30; Sa 08:30-15:00; Su off",
+        "operator": "Andrea Heinrich",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.coiffurehaenselundgretel.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4448188,
+          46.9563214
+        ]
+      },
+      "id": "node/3315408663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3326801706",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "3",
+        "addr:housenumber": "8",
+        "addr:postcode": "3011",
+        "addr:street": "Hotelgasse",
+        "contact:email": "info@medusahair.ch",
+        "contact:facebook": "https://www.facebook.com/pages/medusahair/333992563154",
+        "contact:phone": "+41 31 3119480",
+        "name": "Medusahair",
+        "opening_hours": "Mo off; Tu-We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 09:00-15:00; Su off",
+        "operator": "Salomé Thurnheer und Angelo Molinara",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.medusahair.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4478824,
+          46.9476902
+        ]
+      },
+      "id": "node/3326801706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331654793",
+        "name": "Coiffure Max",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.42824,
+          46.939109
+        ]
+      },
+      "id": "node/3331654793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3331654893",
+        "name": "Coiffure Daniela",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.428184,
+          46.939149
+        ]
+      },
+      "id": "node/3331654893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3341968990",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "75",
+        "addr:postcode": "3006",
+        "addr:street": "Ostermundigenstrasse",
+        "alt_name": "Coiffure & Make-up Daniel Sewer",
+        "contact:email": "info@danielsewer.ch",
+        "contact:facebook": "https://www.facebook.com/pages/Daniel-Sewer-Coiffure-Make-up/172171959485951",
+        "contact:phone": "+41 31 3340404",
+        "contact:website": "http://danielsewer.ch/index.php/kontakt",
+        "name": "Daniel Sewer",
+        "opening_hours": "Mo off; Tu-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-18:00; Sa 08:00-14:00; Su off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.danielsewer.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4728757,
+          46.9539687
+        ]
+      },
+      "id": "node/3341968990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3388463206",
+        "addr:city": "Bern",
+        "addr:housenumber": "75",
+        "addr:postcode": "3005",
+        "addr:street": "Aegertenstrasse",
+        "contact:email": "lesalon@gmx.ch",
+        "contact:phone": "+41 76 4410890",
+        "name": "Le Salon de Lea Labidi",
+        "opening_hours": "Tu 08:00-18:00; We 09:00-19:00; Th 08:00-16:00; Fr 17:00-20:00; Sa \"auf Anfrage\"",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4475642,
+          46.9370883
+        ]
+      },
+      "id": "node/3388463206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3431325329",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "105",
+        "addr:postcode": "3006",
+        "addr:street": "Thunstrasse",
+        "alt_name": "Scissor hands Coiffure for Men",
+        "contact:phone": "+41 31 3814000",
+        "name": "Scissor hands",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4647241,
+          46.941606
+        ]
+      },
+      "id": "node/3431325329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3535349682",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "3011",
+        "addr:street": "Neuengass-Passage",
+        "alt_name": "Coiffeur Mega",
+        "contact:facebook": "https://www.facebook.com/pages/Coiffeur-Mega/173392658594",
+        "contact:phone": "+41 31 3116500",
+        "name": "Mega",
+        "note": "Adresse HR Eintrag: Aarbergergasse 15 (existiert offiziell nicht!)",
+        "operator": "\"Coiffeur Mega\" Erol Mehmet & Memedi Serafedin (Kollektivgesellschaft)",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4432251,
+          46.9494234
+        ]
+      },
+      "id": "node/3535349682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3790219493",
+        "addr:city": "Bern",
+        "addr:housenumber": "71",
+        "addr:postcode": "3012",
+        "addr:street": "Forstweg",
+        "name": "Swiss Coiffure",
+        "opening_hours": "Tu-Fr 09:00-18:30, Sa 09:00-16:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4254575,
+          46.9553481
+        ]
+      },
+      "id": "node/3790219493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4254245891",
+        "name": "coiffeurgemeinschaft.ch",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4322228,
+          46.9548567
+        ]
+      },
+      "id": "node/4254245891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4555511407",
+        "addr:city": "Bern",
+        "addr:housenumber": "5",
+        "addr:postcode": "3008",
+        "addr:street": "Könizstrasse",
+        "email": "info@coiffeur-schaerischnitt.ch",
+        "name": "Schärischnitt",
+        "opening_hours": "Tu 10:00-20:00; We-Fr 09:00-18:00; Sa 08:00-13:00",
+        "phone": "+41 31 382 54 34",
+        "shop": "hairdresser",
+        "website": "https://www.coiffeur-schaerischnitt.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4215403,
+          46.9442287
+        ]
+      },
+      "id": "node/4555511407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4565205592",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "64",
+        "addr:postcode": "3012",
+        "addr:street": "Mittelstrasse",
+        "alt_name": "Coiffeursalon Barbara",
+        "contact:phone": "+41 31 3016021",
+        "name": "Coiffeur Barbara",
+        "operator": "Barbara Dubach",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4371528,
+          46.9566033
+        ]
+      },
+      "id": "node/4565205592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663250336",
+        "name": "Coiffure Mario",
+        "opening_hours": "Tu-Fr 08:00-18:00; Sa 08:00-14:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4321018,
+          46.9536268
+        ]
+      },
+      "id": "node/4663250336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663278029",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "27",
+        "addr:postcode": "3012",
+        "addr:street": "Neufeldstrasse",
+        "name": "Hair Exclusive",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4322873,
+          46.9566238
+        ]
+      },
+      "id": "node/4663278029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4663283082",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "46",
+        "addr:postcode": "3012",
+        "addr:street": "Zähringerstrasse",
+        "name": "Coiffure Vincenzo",
+        "shop": "hairdresser",
+        "website": "http://coiffurevincenzo.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4329847,
+          46.9562146
+        ]
+      },
+      "id": "node/4663283082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4942178668",
+        "addr:city": "Bern",
+        "addr:housenumber": "1",
+        "addr:postcode": "3014",
+        "addr:street": "Talweg",
+        "name": "Zum Goldenen Kamm",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4460275,
+          46.9599953
+        ]
+      },
+      "id": "node/4942178668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5036721255",
+        "name": "Barbershop Rosario",
+        "operator": "Sarah Rosario",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4376194,
+          46.9349346
+        ]
+      },
+      "id": "node/5036721255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5066375323",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:postcode": "3011",
+        "addr:street": "Zeughaus-Passage",
+        "contact:phone": "+41 31 3126562",
+        "name": "Orinad",
+        "name:de": "Orinad",
+        "opening_hours": "Mo-We, Fr 08:30-18:30; Th 08:30-20:00; Sa 08:30-17:00",
+        "opening_hours_1": "Mo-We 08:30-18:30; Th 08:30-20:00; Fr 08:30-18:30; Sa 08:30-17:00; Su off PH off",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "http://www.orinad.ch/stadt-bern/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4459006,
+          46.9485734
+        ]
+      },
+      "id": "node/5066375323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206639522",
+        "addr:city": "Bern",
+        "addr:housenumber": "11",
+        "addr:postcode": "3008",
+        "addr:street": "Könizstrasse",
+        "name": "shapehair",
+        "opening_hours": "Tu, Th, Fr, Sa || \"on request\"",
+        "phone": "+41 31 371 30 20",
+        "shop": "hairdresser",
+        "website": "http://www.shape-hair.ch/bern/shapehair/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.416599,
+          46.937222
+        ]
+      },
+      "id": "node/5206639522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5397176420",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:housenumber": "2",
+        "addr:postcode": "3011",
+        "addr:street": "Zytgloggelaube",
+        "alt_name": "Albert Hair Design",
+        "contact:email": "info@alberthairdesign.ch",
+        "contact:facebook": "https://www.facebook.com/Albert-Hair-Design-1830521510493475/",
+        "contact:instagram": "https://www.instagram.com/alberthairdesign/",
+        "contact:phone": "+41 31 3111131",
+        "name": "Albert",
+        "opening_hours": "Mo off; Tu-Fr 09:00-18:30; Sa 09:00-16:00; Su off; PH off",
+        "operator": "Albert Neziri",
+        "shop": "hairdresser",
+        "source": "survey and website",
+        "website": "https://www.alberthairdesign.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4480628,
+          46.9481824
+        ]
+      },
+      "id": "node/5397176420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5478715288",
+        "addr:city": "Bern",
+        "addr:country": "CH",
+        "addr:floor": "1",
+        "addr:housenumber": "5",
+        "addr:postcode": "3011",
+        "addr:street": "Schützengässchen",
+        "contact:email": "matiaszarza@hotmail.com",
+        "contact:phone": "+41 31 3110686",
+        "name": "Sentidos Professional",
+        "opening_hours": "Mo 12:00-19:00; Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00; Su off; PH off",
+        "operator": "Matias Zarza",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.446237,
+          46.948514
+        ]
+      },
+      "id": "node/5478715288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709415259",
+        "contact:phone": "+41 316322621",
+        "contact:website": "https://www.coiffurekaufmann.ch/",
+        "level": "1",
+        "level:ref": "A",
+        "name": "Coiffure Kaufmann",
+        "opening_hours": "Tu,We,Fr 08:00-17:30; Th 08:00-18:00; Sa 08:00-15:00; Mo,Su,PH closed",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.425795,
+          46.9476856
+        ]
+      },
+      "id": "node/5709415259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5742164820",
+        "name": "Angelo",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4476951,
+          46.9612094
+        ]
+      },
+      "id": "node/5742164820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745409050",
+        "female": "yes",
+        "male": "yes",
+        "name": "Hairdreams",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3866226,
+          46.9371702
+        ]
+      },
+      "id": "node/5745409050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5752572361",
+        "name": "Bandiera Hair",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3752996,
+          46.9463191
+        ]
+      },
+      "id": "node/5752572361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5938680965",
+        "name": "Stars",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4432441,
+          46.9500049
+        ]
+      },
+      "id": "node/5938680965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6009351288",
+        "name": "Domino",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4416963,
+          46.9467549
+        ]
+      },
+      "id": "node/6009351288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6142423523",
+        "email": "welle@pivotpoint.ch",
+        "level": "0",
+        "name": "Onlyhair",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su off",
+        "phone": "+41 31 381 40 40",
+        "shop": "hairdresser",
+        "source": "https://www.welle7.ch/en/shopping-enjoyment/onlyhair",
+        "website": "https://onlyhair.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4363485,
+          46.9478449
+        ]
+      },
+      "id": "node/6142423523"
+    }
+  ]
+}
