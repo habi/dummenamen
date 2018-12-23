@@ -1,1 +1,1 @@
-Dumme Guafför-Namen.
+<del>Doofe</del> Lustige Cuafför-Namen. Für einen Freund. Because I can.
